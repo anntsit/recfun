@@ -1,4 +1,8 @@
 *.class
 *.log
-/target/
-/project/
+target/
+project/
+null/
+.idea/
+.scalafix.conf
+assignment.sbt
